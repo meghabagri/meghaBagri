@@ -5,7 +5,3 @@
 - 📫 How to reach me: mbagri@usc.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never miss a chance to shake a leg on the beat.
-
-## &#x1f4c8; GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghabagri&theme=default&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghabagri&theme=default&show_icons=true&layout=compact" />
