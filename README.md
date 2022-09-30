@@ -1,7 +1,26 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### CSCI-420 Computer Graphics HW1 - HeightFields
 
-- 🔭 Graduate student at University of Southern California majoring in Computer Science
-- 🌱 Software Developer
-- 📫 How to reach me: mbagri@usc.edu
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never miss a chance to shake a leg on the beat.
+#### To run the application:
+* Compile the code using:
+    ```make``` command
+* Add your coloring image in the folder.
+* Pass the actual image and the coloring image as arguments.
+* Run the code using:
+    ```./assign1 spiral.jpg meme.jpeg```
+
+<br>
+
+#### Basic Requirements:
+* 🌀 Autorotation can be toggled using 'r' key.
+* 🌈 Colored vertices using smooth gradient. Can be toggled using 'c' key.
+* ⭕️ Rotate on all three axis using left mouse key.
+* 〰️ Translate on all three axis using 't' key and mouse.
+* 📉 Scale on all three axis using 'shift' key and mouse.
+* 😶‍🌫️ Removed hidden surfaces using glPerspective.
+
+<br>
+
+#### Extra Credits:
+* 👩‍💻 Implemented wireframes on solid traingles
+* 💄 Implemented coloring using another image.
+<br>
